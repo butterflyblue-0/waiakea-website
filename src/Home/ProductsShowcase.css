@@ -1,0 +1,27 @@
+.products-section {
+  background-color: #d7f4fd;
+  padding: 80px 20px;
+  text-align: center;
+  font-family: var(--body-font-family);
+}
+
+.products-section h2 {
+  font-size: 2.5em;
+  font-weight: 400;
+  color: #09366f !important;
+  font-weight: 500;
+  margin-bottom: 60px;
+}
+
+.product-images {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.product-images img {
+  width: 617px;
+  height: 858px;
+  object-fit: cover;
+}

@@ -1,13 +1,43 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+  --light_blue: #01abd1;
+  --light_blue2: #149dd1;
+  --light_blue3: #02abd1;
+  --light_blue4: #1babcf;
+  --light_blue5: #88def0;
+  --light_blue6: #00cfde;
+  --light_blue7: #c2effc;
+  --light_blue8: #bfeff7;
+  --light_blue9: #3abed8;
+  --light_blue10: #bbdee4;
+  --light_blue11: #bef1ff;
+  --light_blue12: #e5f7fb;
+  --light_blue13: #39ABD1;
+  --dark_blue: #274c66;
+  --dark_blue2: #005a72;
+  --dark_blue3: #31769a;
+  --dark_blue4: #084584;
+  --dark_blue5: #4a90e2;
+  --dark_blue6: #19b6dd;
+  --dark_blue7: #19b6d0;
+  --dark_blue8: #4a90e2;
+  --dark_blue9: #02627f;
+  --dark_blue10: #449ace;
+  --dark_blue11: #30608f;
+  --dark_blue12: #17a0bf;
+  --dark_blue13: #01aecb;
+  --dark_blue14: #06416a;
+  --dark_blue15: #01406b;
+  --dark_blue16: #294C65;
+  --dark_blue17: #214576;
+  --white: #ffffff;
+  --black: #000000;
+  --coffee: #cc9c67;
+  --black2: #333232;
+  --red: #e34f6d;
+  --pink: #e973a0;
+  --pink2: #fd4c86;
+  --excellent: #28D12B;
+  --bad: #C01718;
+  --body-font-family: "Futura", sans-serif;
+  --heading-font-family: "Century-Gothic", sans-serif;
 }

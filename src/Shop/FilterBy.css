@@ -1,0 +1,38 @@
+.filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.filter-label {
+  color: #333;
+  letter-spacing: 1px;
+}
+
+.filter-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.filter-button.inactive {
+  color: #a0eaff; /* soft cyan */
+}
+
+.filter-button.inactive:hover {
+  color: #00bcd4; /* cyan on hover */
+}
+
+.filter-button.active-cyan {
+  color: #00bcd4;
+}
+
+.filter-button.active-blue {
+  color: #003366;
+}

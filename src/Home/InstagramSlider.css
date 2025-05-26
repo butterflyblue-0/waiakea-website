@@ -1,0 +1,28 @@
+.instagram-slider-section {
+  padding: 60px 40px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.instagram-title {
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #0a2b4c;
+  font-family: var(--body-font-family);
+}
+
+.instagram-swiper {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.insta-img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  display: block;
+  width: 397px;
+  height: 496px;
+}
