@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/waiakea-website/static/css/main.e54d09fb.css",
-    "main.js": "/waiakea-website/static/js/main.00630b78.js",
+    "main.js": "/waiakea-website/static/js/main.d34927e1.js",
     "static/media/water-showcase.png": "/waiakea-website/static/media/water-showcase.8c2ebe2d8c5730de0164.png",
     "static/media/review2.png": "/waiakea-website/static/media/review2.39bbd3a1965de88964ba.png",
     "static/media/insta1.jpg": "/waiakea-website/static/media/insta1.a0d0198dc0a77a7a0f21.jpg",
@@ -49,10 +49,10 @@
     "static/media/waikea-logo.svg": "/waiakea-website/static/media/waikea-logo.3feeb37125222acae0f4de79cc07c89c.svg",
     "index.html": "/waiakea-website/index.html",
     "main.e54d09fb.css.map": "/waiakea-website/static/css/main.e54d09fb.css.map",
-    "main.00630b78.js.map": "/waiakea-website/static/js/main.00630b78.js.map"
+    "main.d34927e1.js.map": "/waiakea-website/static/js/main.d34927e1.js.map"
   },
   "entrypoints": [
     "static/css/main.e54d09fb.css",
-    "static/js/main.00630b78.js"
+    "static/js/main.d34927e1.js"
   ]
 }
